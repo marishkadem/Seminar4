@@ -4,14 +4,14 @@
 
 #    *Пример:* 
 
-#    - k=2 => 2*x² + 4*x + 5 = 0 или x² + 5 = 0 или 10*x² = 0
+#    - k=2 => 2*x² + 4*x +s 5 = 0 или x² + 5 = 0 или 10*x² = 0
 #    -  k=5 => 2*x^5 + 4*x^4 + 2*x^3 + 2*x^2 + 4*x + 5 = 0
 
 import random
 
 
 def write_file(st):
-    with open('file33.txt', 'w') as data:
+    with open('file4.txt', 'w') as data:
         data.write(st)
 
 
